@@ -1,0 +1,29 @@
+{
+	"name": "y",
+	"version": "1.0.0",
+	"description": "Test Task.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"gulp": "^3.9.0",
+		"gulp-sass": "^2.1.1",
+		"browser-sync": "^2.11.1",
+		"gulp-size": "^2.0.0",
+		"gulp-sourcemaps": "^1.6.0",
+		"gulp-watch": "^4.3.5",
+		"merge-stream": "^1.0.0",
+		"del": "^2.2.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://selcet@bitbucket.org/selcet/astoundcommerce-test-task.git"
+	},
+	"bugs": {
+		"url": "https://bitbucket.org/selcet/astoundcommerce-test-task/issues"
+	},
+	"homepage": "https://bitbucket.org/selcet/astoundcommerce-test-task#readme"
+}
